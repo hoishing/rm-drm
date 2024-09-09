@@ -1,9 +1,9 @@
 .venv/
 __pycache__/
 .DS_Store
-adobe-key.der
 /*.epub
 /*.pdf
 /try*
 .pytest_cache/
 activation.dat
+/*.der

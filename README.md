@@ -8,9 +8,9 @@
 
 ### Use it Online
 
-APN Tester on [Streamlit Community Cloud](https://apn-tester.streamlit.app)
+rm-DRM on [Streamlit Community Cloud](https://rm-drm.streamlit.app)
 
-### Install Locally
+### Run Locally
 
 `pip install pycryptodome lxml streamlit`
 

@@ -1,6 +1,5 @@
-import pytest
 from pathlib import Path
-from deDRM.adobekey import extract_adobe_key
+from deDRM import extract_adobe_key
 
 def test_extract_adobe_key():
     # Assuming you have a sample .dat file for testing
